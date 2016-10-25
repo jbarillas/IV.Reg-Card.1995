@@ -5,6 +5,7 @@ Using data supplied by Wooldridge to practice IV estimation by replicating resul
 
 
 **References:**
+
 Card, D. E., & National Bureau of Economic Research. (1993). *Using geographic variation in college proximity to estimate the return to schooling*. Cambridge, MA: National Bureau of Economic Research.
 
 Wooldridge, J. M. (2011). *Econometric analysis of cross section and panel data*. Cambridge, MaA: MIT.
