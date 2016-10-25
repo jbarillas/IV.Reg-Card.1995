@@ -1,7 +1,7 @@
 # IV.Reg-Card.1995
 Practicing IV regression/2SLS using Card (1995) data
 
-Using data supplied by Wooldridge to practice IV estimation by replicating results of Card (1995). The .do file in the repository will provide the answers for problem 5.4 in Wooldridge (2010). The analysis starts by importing the data from Excel to Stata and renaming the variables to fit the dataset. Four numeric variables that were imported as strings are fixed using the *destring* command and labels are applied to the variables for ease of understanding. 
+Data supplied by Wooldridge is used to practice IV estimation, specifically the *ivreg* and *reg* commmands, by replicating results of Card (1995). The .do file in the repository will provide the answers for problem 5.4 in Wooldridge (2011). The analysis starts by importing the data from Excel to Stata and renaming the variables to fit the dataset. Four numeric variables that were imported as strings are fixed using the *destring* command and labels are applied to the variables for ease of understanding. 
 
 
 **References:**
